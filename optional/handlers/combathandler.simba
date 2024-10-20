@@ -29,8 +29,8 @@ const
     'Magic shortbow (i)', 'Armadyl crossbow', 'Dragon hunter crossbow',
     'Venator bow', 'Dragon crossbow', 'Rune crossbow', 'Adamant dart',
     'Mithril dart', 'Rune scimitar', 'Dorgeshuun crossbow',
-    'Leaf-bladed sword', 'Leaf-bladed battleaxe', 'Zombie axe', 
-	'Osmumten''s fang', 'Null'
+    'Leaf-bladed sword', 'Leaf-bladed battleaxe', 'Zombie axe',
+	'Osmumten''s fang', 'Noxious halberd', 'Null'
   ];
 
   SHIELDS: TRSItemArray = [
